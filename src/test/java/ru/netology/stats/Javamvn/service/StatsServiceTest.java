@@ -4,5 +4,8 @@ import org.junit.jupiter.api.Test;
 
 public class StatsServiceTest {
     @Test
-    public void 
+    public void ServiceTest 
+    StatsService service = new StatsService();
+
+
 }
